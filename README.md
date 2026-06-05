@@ -23,6 +23,7 @@ I build machine learning models, analytical pipelines, and interactive dashboard
 
 **Languages:** Python · R · SQL  
 **ML/Data:** Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · PyTorch · TensorFlow
+
 **BI & Visualisation:** Power BI · Tableau  
 **Other:** Jupyter Notebook · Git · Excel  
 
