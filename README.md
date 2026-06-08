@@ -19,7 +19,7 @@ I build machine learning models, analytical pipelines, and interactive dashboard
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages:** Python · R · SQL  
 **ML/Data:** Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · PyTorch · TensorFlow
@@ -29,7 +29,7 @@ I build machine learning models, analytical pipelines, and interactive dashboard
 
 ---
 
-## 📚 Currently
+## Currently
 
 - 📖 Studying for my **MSc in Data Science**
 - 🏥 Building my MSc dissertation
@@ -37,7 +37,7 @@ I build machine learning models, analytical pipelines, and interactive dashboard
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Awad-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK-HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-abdullaawad-181717?style=flat&logo=github)](https://github.com/abdullaawad)
