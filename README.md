@@ -1,4 +1,4 @@
-# Hi, I'm Abdullah Awad 👋
+# Hi, I'm Abdullah Awad 
 
 **MSc Data Science student @ London** | Python · R · SQL · Power BI
 
@@ -6,7 +6,7 @@ I build machine learning models, analytical pipelines, and interactive dashboard
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -31,9 +31,9 @@ I build machine learning models, analytical pipelines, and interactive dashboard
 
 ## Currently
 
-- 📖 Studying for my **MSc in Data Science**
-- 🏥 Building my MSc dissertation
-- 🔍 Looking for **data science internship / placement** opportunities
+- Studying for my **MSc in Data Science**
+- Building my MSc dissertation
+- Looking for **data science internship / placement** opportunities
 
 ---
 
