@@ -32,8 +32,9 @@ I build machine learning models, analytical pipelines, and interactive dashboard
 ## Currently
 
 - Studying for my **MSc in Data Science**
-- Building my MSc dissertation
-- Looking for **data science internship / placement** opportunities
+- Building my MSc dissertation and personal projects
+- Learning French
+- Looking for **graduate data science** opportunities
 
 ---
 
